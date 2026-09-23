@@ -4,10 +4,6 @@ This repository contains a Codex skill for generating Ian-style Chinese article 
 
 ## Preview
 
-Capybara IP reference:
-
-<img src="ian-capybara-illustrations/assets/capybara-reference.png" alt="Capybara reference" width="280">
-
 PPT/video background examples made with this skill:
 
 <p>
