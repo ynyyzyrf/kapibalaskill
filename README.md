@@ -8,16 +8,16 @@ Capybara IP reference:
 
 <img src="ian-capybara-illustrations/assets/capybara-reference.png" alt="Capybara reference" width="280">
 
-Example illustration style:
+PPT/video background examples made with this skill:
 
 <p>
-  <img src="ian-capybara-illustrations/assets/examples/01-two-breakpoints.png" alt="Two breakpoints example" width="420">
-  <img src="ian-capybara-illustrations/assets/examples/04-one-fish-many-uses.png" alt="One fish many uses example" width="420">
+  <img src="preview/01-memory-problem.png" alt="Agent memory problem background" width="420">
+  <img src="preview/02-three-layer-overview.png" alt="Agent memory three-layer overview background" width="420">
 </p>
 
 <p>
-  <img src="ian-capybara-illustrations/assets/examples/10-information-well.png" alt="Information well example" width="420">
-  <img src="ian-capybara-illustrations/assets/examples/14-trust-bridge.png" alt="Trust bridge example" width="420">
+  <img src="preview/03-oumi-ai-tutor-memory.png" alt="Oumi AI tutor memory background" width="420">
+  <img src="preview/08-shared-memory-foundation.png" alt="Shared memory foundation background" width="420">
 </p>
 
 ## Skill
